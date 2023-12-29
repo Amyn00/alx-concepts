@@ -1,6 +1,6 @@
 # AirBnB clone
 
-<img src="">
+<img src="https://github.com/Amyn00/alx-concepts/blob/main/images/hbnb.png">
 
 I know you were waiting for it: it’s here!
 
@@ -17,8 +17,8 @@ After 4 months, you will have a complete web application composed by:
 
 ## Final product
 
-<img src="">
-<img src="">
+<img src="https://github.com/Amyn00/alx-concepts/blob/main/images/review1.png">
+<img src="https://github.com/Amyn00/alx-concepts/blob/main/images/review2.png">
 
 ## Concepts to learn
 
@@ -46,7 +46,7 @@ This abstraction will also allow you to change the type of storage easily withou
 
 The console will be a tool to validate this storage engine
 
-<img src="">
+<img src="https://github.com/Amyn00/alx-concepts/blob/main/images/console.png">
 
 ## Web static
 
@@ -54,21 +54,21 @@ The console will be a tool to validate this storage engine
 * create the HTML of your application
 * create template of each object
 
-<img src="">
+<img src="https://github.com/Amyn00/alx-concepts/blob/main/images/web_static.png">
 
 ## MySQL storage
 
 * replace the file storage by a Database storage
 * map your models to a table in database by using an O.R.M.
 
-<img src="">
+<img src="https://github.com/Amyn00/alx-concepts/blob/main/images/mysql_storage.png">
 
 ## Web framework - templating
 
 * create your first web server in Python
 * make your static HTML file dynamic by using objects stored in a file or database
 
-<img src="">
+<img src="https://github.com/Amyn00/alx-concepts/blob/main/images/web_framework.png">
 
 
 ## RESTful API
@@ -76,14 +76,14 @@ The console will be a tool to validate this storage engine
 * expose all your objects stored via a JSON web interface
 * manipulate your objects via a RESTful API
 
-<img src="">
+<img src="https://github.com/Amyn00/alx-concepts/blob/main/images/RESTful_API.png">
 
 ##Web dynamic
 
 * learn JQuery
 * load objects from the client side by using your own RESTful API
 
-<img src="">
+<img src="https://github.com/Amyn00/alx-concepts/blob/main/images/web_dynamic.png">
 
 ## Files and Directories
 
@@ -254,4 +254,4 @@ print(date_now.strftime("%A %d %B %Y at %H:%M:%S")) # Thursday 08 June 2017 at 2
 
 ## Data diagram
 
-<img src="">
+<img src="https://github.com/Amyn00/alx-concepts/blob/main/images/data_diagram.jpg">
