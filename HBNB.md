@@ -78,7 +78,7 @@ The console will be a tool to validate this storage engine
 
 <img src="https://github.com/Amyn00/alx-concepts/blob/main/images/RESTful_API.png">
 
-##Web dynamic
+## Web dynamic
 
 * learn JQuery
 * load objects from the client side by using your own RESTful API
